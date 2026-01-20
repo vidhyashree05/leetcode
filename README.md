@@ -11,6 +11,7 @@
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vidhyashree05/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vidhyashree05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -20,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vidhyashree05/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vidhyashree05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -28,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vidhyashree05/leetcode/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vidhyashree05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
