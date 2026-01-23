@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
 |  |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -92,4 +94,8 @@
 | [0015-3sum](https://github.com/vidhyashree05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vidhyashree05/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
