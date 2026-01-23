@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -20,6 +21,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,5 +68,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
