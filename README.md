@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/vidhyashree05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vidhyashree05/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@
 | [0015-3sum](https://github.com/vidhyashree05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vidhyashree05/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,4 +113,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
