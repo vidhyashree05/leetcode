@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/vidhyashree05/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhyashree05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vidhyashree05/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vidhyashree05/leetcode/tree/master/0013-roman-to-integer) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -117,6 +118,7 @@
 | [0007-reverse-integer](https://github.com/vidhyashree05/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vidhyashree05/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vidhyashree05/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vidhyashree05/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -203,4 +205,5 @@
 | [0008-string-to-integer-atoi](https://github.com/vidhyashree05/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/vidhyashree05/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vidhyashree05/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
