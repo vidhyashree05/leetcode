@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vidhyashree05/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
