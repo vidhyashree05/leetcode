@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vidhyashree05/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
@@ -194,4 +196,5 @@
 | [0005-longest-palindromic-substring](https://github.com/vidhyashree05/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vidhyashree05/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vidhyashree05/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
