@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vidhyashree05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
@@ -201,6 +203,7 @@
 | [0002-add-two-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidhyashree05/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
