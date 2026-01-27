@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -220,4 +221,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhyashree05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
