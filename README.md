@@ -77,6 +77,7 @@
 | [0015-3sum](https://github.com/vidhyashree05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vidhyashree05/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vidhyashree05/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vidhyashree05/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
