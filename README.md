@@ -100,6 +100,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vidhyashree05/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
@@ -219,6 +220,7 @@
 | [0014-longest-common-prefix](https://github.com/vidhyashree05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhyashree05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhyashree05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
