@@ -111,6 +111,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vidhyashree05/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/vidhyashree05/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -242,6 +244,7 @@
 | [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vidhyashree05/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vidhyashree05/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
