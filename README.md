@@ -38,6 +38,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/vidhyashree05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Design
 |  |
 | ------- |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
