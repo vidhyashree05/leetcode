@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhyashree05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vidhyashree05/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/vidhyashree05/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidhyashree05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vidhyashree05/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vidhyashree05/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/vidhyashree05/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
