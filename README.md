@@ -67,6 +67,7 @@
 | [0012-integer-to-roman](https://github.com/vidhyashree05/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vidhyashree05/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vidhyashree05/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vidhyashree05/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhyashree05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vidhyashree05/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -237,6 +239,7 @@
 | [0020-valid-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vidhyashree05/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vidhyashree05/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vidhyashree05/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Trie
 |  |
 | ------- |
