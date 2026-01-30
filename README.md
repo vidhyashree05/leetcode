@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/vidhyashree05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vidhyashree05/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +178,7 @@
 | [0015-3sum](https://github.com/vidhyashree05/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vidhyashree05/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vidhyashree05/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
 | [1200-minimum-absolute-difference](https://github.com/vidhyashree05/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -285,6 +287,7 @@
 | [0037-sudoku-solver](https://github.com/vidhyashree05/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vidhyashree05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vidhyashree05/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
 ## Graph Theory
 |  |
 | ------- |
