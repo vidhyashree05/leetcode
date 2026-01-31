@@ -29,6 +29,7 @@
 | [0051-n-queens](https://github.com/vidhyashree05/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vidhyashree05/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -139,6 +140,7 @@
 | [0044-wildcard-matching](https://github.com/vidhyashree05/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -216,6 +218,7 @@
 | [0011-container-with-most-water](https://github.com/vidhyashree05/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/vidhyashree05/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Queue
