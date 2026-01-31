@@ -26,6 +26,7 @@
 | [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vidhyashree05/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vidhyashree05/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -298,6 +299,7 @@
 | [0040-combination-sum-ii](https://github.com/vidhyashree05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vidhyashree05/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/vidhyashree05/leetcode/tree/master/0051-n-queens) |
 ## Graph Theory
 |  |
 | ------- |
