@@ -24,6 +24,7 @@
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vidhyashree05/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vidhyashree05/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -159,6 +160,7 @@
 | [0013-roman-to-integer](https://github.com/vidhyashree05/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vidhyashree05/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vidhyashree05/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -311,6 +313,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/vidhyashree05/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vidhyashree05/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
