@@ -146,6 +146,7 @@
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vidhyashree05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -174,6 +175,7 @@
 | [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vidhyashree05/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/vidhyashree05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vidhyashree05/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
