@@ -292,6 +292,7 @@
 | [0043-multiply-strings](https://github.com/vidhyashree05/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vidhyashree05/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/vidhyashree05/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/vidhyashree05/leetcode/tree/master/0058-length-of-last-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
