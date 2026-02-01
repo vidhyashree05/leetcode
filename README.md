@@ -32,6 +32,7 @@
 | [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vidhyashree05/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vidhyashree05/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -334,6 +335,7 @@
 | [0037-sudoku-solver](https://github.com/vidhyashree05/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vidhyashree05/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
@@ -348,6 +350,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/vidhyashree05/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vidhyashree05/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Enumeration
 |  |
 | ------- |
