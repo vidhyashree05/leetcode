@@ -172,6 +172,7 @@
 | [0043-multiply-strings](https://github.com/vidhyashree05/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vidhyashree05/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vidhyashree05/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -272,6 +273,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/vidhyashree05/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/vidhyashree05/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/vidhyashree05/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
