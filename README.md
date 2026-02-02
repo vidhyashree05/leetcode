@@ -62,6 +62,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -99,6 +100,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vidhyashree05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vidhyashree05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vidhyashree05/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
