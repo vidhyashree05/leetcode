@@ -35,6 +35,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vidhyashree05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/vidhyashree05/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -182,6 +183,7 @@
 | [0050-powx-n](https://github.com/vidhyashree05/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vidhyashree05/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/vidhyashree05/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
