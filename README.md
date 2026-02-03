@@ -67,6 +67,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/vidhyashree05/leetcode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
