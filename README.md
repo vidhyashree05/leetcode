@@ -37,6 +37,7 @@
 | [0064-minimum-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vidhyashree05/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/vidhyashree05/leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@
 | [0037-sudoku-solver](https://github.com/vidhyashree05/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vidhyashree05/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vidhyashree05/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -366,6 +368,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vidhyashree05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
