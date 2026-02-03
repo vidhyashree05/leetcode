@@ -104,6 +104,7 @@
 | [0041-first-missing-positive](https://github.com/vidhyashree05/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vidhyashree05/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/vidhyashree05/leetcode/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vidhyashree05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vidhyashree05/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/vidhyashree05/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -329,6 +331,7 @@
 | [0068-text-justification](https://github.com/vidhyashree05/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/vidhyashree05/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vidhyashree05/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/vidhyashree05/leetcode/tree/master/0076-minimum-window-substring) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
