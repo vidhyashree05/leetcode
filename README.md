@@ -158,6 +158,7 @@
 | [0063-unique-paths-ii](https://github.com/vidhyashree05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/vidhyashree05/leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
@@ -320,6 +321,7 @@
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vidhyashree05/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/vidhyashree05/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/vidhyashree05/leetcode/tree/master/0072-edit-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
