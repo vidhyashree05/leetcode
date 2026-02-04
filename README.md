@@ -40,6 +40,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vidhyashree05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vidhyashree05/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vidhyashree05/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -353,6 +354,7 @@
 | [0051-n-queens](https://github.com/vidhyashree05/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vidhyashree05/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vidhyashree05/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/vidhyashree05/leetcode/tree/master/0078-subsets) |
 ## Graph Theory
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/vidhyashree05/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vidhyashree05/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
