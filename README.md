@@ -215,6 +215,7 @@
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vidhyashree05/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -381,6 +382,7 @@
 | [0077-combinations](https://github.com/vidhyashree05/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vidhyashree05/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vidhyashree05/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
 ## Graph Theory
 |  |
 | ------- |
@@ -422,6 +424,7 @@
 | [0029-divide-two-integers](https://github.com/vidhyashree05/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vidhyashree05/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
