@@ -75,6 +75,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/vidhyashree05/leetcode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/vidhyashree05/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/vidhyashree05/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -417,6 +418,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vidhyashree05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vidhyashree05/leetcode/tree/master/0068-text-justification) |
+| [3379-transformed-array](https://github.com/vidhyashree05/leetcode/tree/master/3379-transformed-array) |
 ## Enumeration
 |  |
 | ------- |
