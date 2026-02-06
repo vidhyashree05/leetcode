@@ -310,12 +310,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vidhyashree05/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -323,6 +325,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
@@ -472,4 +475,5 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
