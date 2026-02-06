@@ -186,6 +186,7 @@
 | [0087-scramble-string](https://github.com/vidhyashree05/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/vidhyashree05/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
@@ -220,6 +221,7 @@
 | [0069-sqrtx](https://github.com/vidhyashree05/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -306,6 +308,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -318,6 +321,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
@@ -465,4 +469,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
