@@ -368,6 +368,7 @@
 | [0079-word-search](https://github.com/vidhyashree05/leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/vidhyashree05/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/vidhyashree05/leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/vidhyashree05/leetcode/tree/master/0093-restore-ip-addresses) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
@@ -391,6 +392,7 @@
 | [0079-word-search](https://github.com/vidhyashree05/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vidhyashree05/leetcode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/vidhyashree05/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Graph Theory
 |  |
 | ------- |
