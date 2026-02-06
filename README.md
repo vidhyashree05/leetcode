@@ -269,6 +269,7 @@
 | [0071-simplify-path](https://github.com/vidhyashree05/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidhyashree05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vidhyashree05/leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -302,15 +303,18 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vidhyashree05/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
