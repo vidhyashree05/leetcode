@@ -185,6 +185,7 @@
 | [0085-maximal-rectangle](https://github.com/vidhyashree05/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/vidhyashree05/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/vidhyashree05/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
@@ -397,6 +400,7 @@
 | [0089-gray-code](https://github.com/vidhyashree05/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vidhyashree05/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/vidhyashree05/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -457,4 +461,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vidhyashree05/leetcode/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vidhyashree05/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
