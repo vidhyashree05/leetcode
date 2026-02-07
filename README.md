@@ -268,6 +268,7 @@
 | [0101-symmetric-tree](https://github.com/vidhyashree05/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -322,6 +323,7 @@
 | [0101-symmetric-tree](https://github.com/vidhyashree05/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -332,6 +334,7 @@
 | [0099-recover-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vidhyashree05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vidhyashree05/leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -345,6 +348,7 @@
 | [0101-symmetric-tree](https://github.com/vidhyashree05/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
