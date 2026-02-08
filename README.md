@@ -50,6 +50,7 @@
 | [0090-subsets-ii](https://github.com/vidhyashree05/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
@@ -171,6 +172,7 @@
 | [0053-maximum-subarray](https://github.com/vidhyashree05/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vidhyashree05/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
@@ -364,6 +367,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vidhyashree05/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
@@ -517,4 +521,5 @@
 | [0096-unique-binary-search-trees](https://github.com/vidhyashree05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
