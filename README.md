@@ -279,6 +279,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vidhyashree05/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -340,6 +341,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -352,6 +354,7 @@
 | [0101-symmetric-tree](https://github.com/vidhyashree05/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -372,6 +375,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
