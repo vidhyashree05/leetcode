@@ -174,6 +174,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0045-jump-game-ii](https://github.com/vidhyashree05/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vidhyashree05/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Queue
 |  |
@@ -346,6 +348,7 @@
 | [0112-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vidhyashree05/leetcode/tree/master/0113-path-sum-ii) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 | [0112-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vidhyashree05/leetcode/tree/master/0113-path-sum-ii) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 | [0112-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vidhyashree05/leetcode/tree/master/0113-path-sum-ii) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -539,4 +544,5 @@
 | [0099-recover-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
