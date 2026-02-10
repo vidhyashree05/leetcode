@@ -57,6 +57,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhyashree05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vidhyashree05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vidhyashree05/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +131,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/vidhyashree05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/vidhyashree05/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -594,4 +596,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
