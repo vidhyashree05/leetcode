@@ -63,6 +63,7 @@
 | [0135-candy](https://github.com/vidhyashree05/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vidhyashree05/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vidhyashree05/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,6 +143,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/vidhyashree05/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/vidhyashree05/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -236,6 +238,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vidhyashree05/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vidhyashree05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vidhyashree05/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vidhyashree05/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -522,6 +526,7 @@
 | [0127-word-ladder](https://github.com/vidhyashree05/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/vidhyashree05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vidhyashree05/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -531,6 +536,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vidhyashree05/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
