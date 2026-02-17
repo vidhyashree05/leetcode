@@ -73,6 +73,7 @@
 | [0162-find-peak-element](https://github.com/vidhyashree05/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/vidhyashree05/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
@@ -159,6 +160,7 @@
 | [0149-max-points-on-a-line](https://github.com/vidhyashree05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vidhyashree05/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vidhyashree05/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -228,6 +230,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vidhyashree05/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -341,6 +344,7 @@
 | [0147-insertion-sort-list](https://github.com/vidhyashree05/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vidhyashree05/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/vidhyashree05/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/vidhyashree05/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -717,6 +721,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [3713-longest-balanced-substring-i](https://github.com/vidhyashree05/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
