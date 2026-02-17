@@ -625,6 +625,7 @@
 | [0126-word-ladder-ii](https://github.com/vidhyashree05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/vidhyashree05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/vidhyashree05/leetcode/tree/master/0140-word-break-ii) |
+| [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 ## Graph Theory
 |  |
 | ------- |
@@ -674,6 +675,7 @@
 | [0136-single-number](https://github.com/vidhyashree05/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vidhyashree05/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
