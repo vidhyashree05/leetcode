@@ -313,6 +313,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vidhyashree05/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vidhyashree05/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vidhyashree05/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/vidhyashree05/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -595,6 +596,7 @@
 | [0165-compare-version-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vidhyashree05/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vidhyashree05/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/vidhyashree05/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
