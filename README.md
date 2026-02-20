@@ -239,6 +239,7 @@
 | [0148-sort-list](https://github.com/vidhyashree05/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -707,6 +708,7 @@
 | [0137-single-number-ii](https://github.com/vidhyashree05/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vidhyashree05/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
