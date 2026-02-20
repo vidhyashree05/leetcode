@@ -237,6 +237,7 @@
 | [0148-sort-list](https://github.com/vidhyashree05/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vidhyashree05/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -357,6 +358,7 @@
 | [0164-maximum-gap](https://github.com/vidhyashree05/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vidhyashree05/leetcode/tree/master/0179-largest-number) |
+| [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/vidhyashree05/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -615,6 +617,7 @@
 | [0179-largest-number](https://github.com/vidhyashree05/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
