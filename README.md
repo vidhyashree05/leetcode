@@ -167,6 +167,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/vidhyashree05/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -207,6 +208,7 @@
 | [0165-compare-version-numbers](https://github.com/vidhyashree05/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vidhyashree05/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -329,6 +331,7 @@
 | [0171-excel-sheet-column-number](https://github.com/vidhyashree05/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/vidhyashree05/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vidhyashree05/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
