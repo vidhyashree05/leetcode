@@ -334,6 +334,7 @@
 | [0189-rotate-array](https://github.com/vidhyashree05/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vidhyashree05/leetcode/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -727,6 +728,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/vidhyashree05/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vidhyashree05/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
