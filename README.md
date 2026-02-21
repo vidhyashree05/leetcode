@@ -169,6 +169,7 @@
 | [0169-majority-element](https://github.com/vidhyashree05/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/vidhyashree05/leetcode/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vidhyashree05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vidhyashree05/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -635,6 +636,7 @@
 | [0171-excel-sheet-column-number](https://github.com/vidhyashree05/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/vidhyashree05/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/vidhyashree05/leetcode/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
