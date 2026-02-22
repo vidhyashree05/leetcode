@@ -307,6 +307,7 @@
 | [0155-min-stack](https://github.com/vidhyashree05/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
@@ -519,6 +520,7 @@
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vidhyashree05/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vidhyashree05/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -646,6 +648,7 @@
 | [0187-repeated-dna-sequences](https://github.com/vidhyashree05/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vidhyashree05/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -660,6 +663,7 @@
 | [0139-word-break](https://github.com/vidhyashree05/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vidhyashree05/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
