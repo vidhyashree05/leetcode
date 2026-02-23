@@ -82,6 +82,7 @@
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vidhyashree05/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
@@ -650,6 +651,7 @@
 | [0205-isomorphic-strings](https://github.com/vidhyashree05/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vidhyashree05/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -666,6 +668,7 @@
 | [0140-word-break-ii](https://github.com/vidhyashree05/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
@@ -689,6 +692,7 @@
 | [0126-word-ladder-ii](https://github.com/vidhyashree05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/vidhyashree05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/vidhyashree05/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 ## Graph Theory
 |  |
@@ -727,6 +731,7 @@
 | [0130-surrounded-regions](https://github.com/vidhyashree05/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/vidhyashree05/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
