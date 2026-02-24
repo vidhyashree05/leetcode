@@ -494,6 +494,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vidhyashree05/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -524,6 +525,7 @@
 | [0210-course-schedule-ii](https://github.com/vidhyashree05/leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -557,6 +559,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vidhyashree05/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
