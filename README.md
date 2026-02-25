@@ -354,6 +354,7 @@
 | [0189-rotate-array](https://github.com/vidhyashree05/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vidhyashree05/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/vidhyashree05/leetcode/tree/master/0223-rectangle-area) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -846,6 +847,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vidhyashree05/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/vidhyashree05/leetcode/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
