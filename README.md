@@ -91,6 +91,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vidhyashree05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vidhyashree05/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/vidhyashree05/leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
