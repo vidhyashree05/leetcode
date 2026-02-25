@@ -240,6 +240,7 @@
 | [0162-find-peak-element](https://github.com/vidhyashree05/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vidhyashree05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vidhyashree05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/vidhyashree05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhyashree05/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -515,6 +516,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vidhyashree05/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/vidhyashree05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -580,6 +582,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/vidhyashree05/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vidhyashree05/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/vidhyashree05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -780,6 +783,7 @@
 | [0190-reverse-bits](https://github.com/vidhyashree05/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vidhyashree05/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/vidhyashree05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/vidhyashree05/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vidhyashree05/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
