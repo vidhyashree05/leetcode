@@ -355,6 +355,7 @@
 | [0202-happy-number](https://github.com/vidhyashree05/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vidhyashree05/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vidhyashree05/leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -448,6 +449,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vidhyashree05/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vidhyashree05/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vidhyashree05/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -629,6 +631,7 @@
 | [0143-reorder-list](https://github.com/vidhyashree05/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vidhyashree05/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vidhyashree05/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -682,6 +685,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/vidhyashree05/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0696-count-binary-substrings](https://github.com/vidhyashree05/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vidhyashree05/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
