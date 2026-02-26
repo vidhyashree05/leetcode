@@ -328,6 +328,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vidhyashree05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vidhyashree05/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/vidhyashree05/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vidhyashree05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
@@ -460,6 +461,7 @@
 | [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/vidhyashree05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vidhyashree05/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/vidhyashree05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -485,6 +487,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vidhyashree05/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vidhyashree05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
