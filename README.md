@@ -309,6 +309,7 @@
 | [0198-house-robber](https://github.com/vidhyashree05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vidhyashree05/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vidhyashree05/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -363,6 +364,7 @@
 | [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vidhyashree05/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vidhyashree05/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -654,6 +656,7 @@
 | [0206-reverse-linked-list](https://github.com/vidhyashree05/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/vidhyashree05/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
