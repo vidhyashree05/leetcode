@@ -660,6 +660,7 @@
 | [0224-basic-calculator](https://github.com/vidhyashree05/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/vidhyashree05/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -719,6 +720,7 @@
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vidhyashree05/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vidhyashree05/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -839,6 +841,7 @@
 | [0067-add-binary](https://github.com/vidhyashree05/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vidhyashree05/leetcode/tree/master/0068-text-justification) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vidhyashree05/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/vidhyashree05/leetcode/tree/master/3379-transformed-array) |
 ## Enumeration
