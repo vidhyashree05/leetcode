@@ -112,6 +112,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -802,6 +803,7 @@
 | [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
