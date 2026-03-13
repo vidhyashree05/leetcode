@@ -122,6 +122,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/vidhyashree05/leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vidhyashree05/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/vidhyashree05/leetcode/tree/master/3637-trionic-array-i) |
@@ -254,6 +255,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vidhyashree05/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vidhyashree05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -378,6 +380,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
 |  |
@@ -514,6 +518,7 @@
 | [0218-the-skyline-problem](https://github.com/vidhyashree05/leetcode/tree/master/0218-the-skyline-problem) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vidhyashree05/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vidhyashree05/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vidhyashree05/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
