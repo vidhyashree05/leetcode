@@ -343,6 +343,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vidhyashree05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vidhyashree05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/vidhyashree05/leetcode/tree/master/1622-fancy-sequence) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1622-fancy-sequence](https://github.com/vidhyashree05/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sliding Window
@@ -896,6 +898,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/vidhyashree05/leetcode/tree/master/0218-the-skyline-problem) |
+| [1622-fancy-sequence](https://github.com/vidhyashree05/leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vidhyashree05/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union-Find
