@@ -113,6 +113,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -430,6 +431,7 @@
 | [0761-special-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/vidhyashree05/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -507,6 +509,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -834,6 +837,7 @@
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
