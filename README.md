@@ -122,6 +122,7 @@
 | [1980-find-unique-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vidhyashree05/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/vidhyashree05/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vidhyashree05/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -348,6 +349,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vidhyashree05/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vidhyashree05/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vidhyashree05/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vidhyashree05/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -531,6 +533,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
@@ -774,6 +777,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vidhyashree05/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vidhyashree05/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vidhyashree05/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vidhyashree05/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/vidhyashree05/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -861,6 +865,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vidhyashree05/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/vidhyashree05/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vidhyashree05/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vidhyashree05/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -950,6 +955,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vidhyashree05/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
+| [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
