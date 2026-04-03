@@ -143,6 +143,7 @@
 | [3640-trionic-array-ii](https://github.com/vidhyashree05/leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vidhyashree05/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vidhyashree05/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vidhyashree05/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -281,6 +282,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vidhyashree05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vidhyashree05/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vidhyashree05/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vidhyashree05/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/vidhyashree05/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vidhyashree05/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vidhyashree05/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Design
 |  |
 | ------- |
@@ -465,6 +468,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vidhyashree05/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vidhyashree05/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vidhyashree05/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vidhyashree05/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Memoization
 |  |
 | ------- |
