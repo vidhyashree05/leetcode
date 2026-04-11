@@ -149,6 +149,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vidhyashree05/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vidhyashree05/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vidhyashree05/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/vidhyashree05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vidhyashree05/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vidhyashree05/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vidhyashree05/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
