@@ -114,6 +114,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vidhyashree05/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -666,6 +667,7 @@
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1008,6 +1010,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vidhyashree05/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
