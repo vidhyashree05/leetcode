@@ -112,6 +112,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -533,6 +534,7 @@
 | [0210-course-schedule-ii](https://github.com/vidhyashree05/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Stack
 |  |
 | ------- |
@@ -675,6 +677,7 @@
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -919,6 +922,7 @@
 | [0212-word-search-ii](https://github.com/vidhyashree05/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vidhyashree05/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1021,6 +1025,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidhyashree05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vidhyashree05/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vidhyashree05/leetcode/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/vidhyashree05/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vidhyashree05/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
