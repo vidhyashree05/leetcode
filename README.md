@@ -95,6 +95,7 @@
 | [0229-majority-element-ii](https://github.com/vidhyashree05/leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vidhyashree05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/vidhyashree05/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vidhyashree05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/vidhyashree05/leetcode/tree/master/0525-contiguous-array) |
@@ -379,6 +380,7 @@
 | [0221-maximal-square](https://github.com/vidhyashree05/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/vidhyashree05/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vidhyashree05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -446,6 +448,7 @@
 | [0227-basic-calculator-ii](https://github.com/vidhyashree05/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vidhyashree05/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
+| [0396-rotate-function](https://github.com/vidhyashree05/leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/vidhyashree05/leetcode/tree/master/1622-fancy-sequence) |
