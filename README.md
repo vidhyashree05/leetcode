@@ -384,6 +384,7 @@
 | [0410-split-array-largest-sum](https://github.com/vidhyashree05/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vidhyashree05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0788-rotated-digits](https://github.com/vidhyashree05/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/vidhyashree05/leetcode/tree/master/0799-champagne-tower) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vidhyashree05/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -450,6 +451,7 @@
 | [0233-number-of-digit-one](https://github.com/vidhyashree05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/vidhyashree05/leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vidhyashree05/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/vidhyashree05/leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/vidhyashree05/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
