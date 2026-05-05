@@ -3,26 +3,31 @@ public:
     ListNode* rotateRight(ListNode* head, int k) {
         if (!head || !head->next || k == 0) return head;
 
-        int len = 1;
+        // Step 1: Find length
+        int n = 1;
         ListNode* tail = head;
         while (tail->next) {
             tail = tail->next;
-            len++;
+            n++;
         }
 
+        // Step 2: Make circular
         tail->next = head;
 
-        
-        k = k % len;
-        int steps = len - k;
-        while (steps--) {
-            tail = tail->next;
+        // Step 3: Reduce k
+        k = k % n;
+
+        // Step 4: Find new tail (n-k-1 steps)
+        int steps = n - k;
+        ListNode* newTail = head;
+        for (int i = 1; i < steps; i++) {
+            newTail = newTail->next;
         }
 
-        
-        head = tail->next;
-        tail->next = NULL;
+        // Step 5: Break circle
+        ListNode* newHead = newTail->next;
+        newTail->next = NULL;
 
-        return head;
+        return newHead;
     }
 };
