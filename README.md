@@ -118,6 +118,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vidhyashree05/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vidhyashree05/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/vidhyashree05/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vidhyashree05/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vidhyashree05/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -190,6 +191,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vidhyashree05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/vidhyashree05/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/vidhyashree05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/vidhyashree05/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -249,6 +251,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/vidhyashree05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vidhyashree05/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/vidhyashree05/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/vidhyashree05/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/vidhyashree05/leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vidhyashree05/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
