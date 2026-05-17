@@ -110,6 +110,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vidhyashree05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/vidhyashree05/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vidhyashree05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1306-jump-game-iii](https://github.com/vidhyashree05/leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vidhyashree05/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/vidhyashree05/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -567,6 +568,7 @@
 | [0210-course-schedule-ii](https://github.com/vidhyashree05/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vidhyashree05/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vidhyashree05/leetcode/tree/master/0322-coin-change) |
+| [1306-jump-game-iii](https://github.com/vidhyashree05/leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vidhyashree05/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -712,6 +714,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vidhyashree05/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0968-binary-tree-cameras](https://github.com/vidhyashree05/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vidhyashree05/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/vidhyashree05/leetcode/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vidhyashree05/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vidhyashree05/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vidhyashree05/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
